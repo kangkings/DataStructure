@@ -8,7 +8,7 @@ main함수는 static이기 때문에 메모리에 올라갈 때 같이 사용할
 메서드도 static속성 부여
  */
 
-public class Ex1_2_max_verification {
+public class Ex01_1_2_max_verification {
     //3가지 숫자 중 최댓값 구하는 메서드
     static int max3(int a, int b, int c){
         int max = a;

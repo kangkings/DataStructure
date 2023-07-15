@@ -6,7 +6,7 @@ import java.util.Scanner;
 (이 과정은 나중에 퀵정렬에서 자세히 다룸)
  */
 
-public class Ex1c_1_median {
+public class Ex01c_1_median {
     static int med3(int a, int b, int c){
         if(a >= b){
             if(b>=c){

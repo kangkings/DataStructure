@@ -4,7 +4,7 @@ import java.util.Scanner;
 /*
 입력받은 숫자가 양수인지 음수인지 0인지 판별
  */
-public class Ex1_3_judge {
+public class Ex01_1_3_judge {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
